@@ -36,7 +36,7 @@ Experienced software developer with a background in electronic engineering, adep
 
 
 
-## Selected Projects
+## GA Projects
 
 | Jedi Game       | Gaming Deals       | MERN Pizza Haus       | Monster Adoption       |
 |-----------------------|-----------------------|-----------------------|-----------------------|
