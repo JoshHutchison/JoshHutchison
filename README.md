@@ -1,37 +1,22 @@
 # Josh Hutchison | Software Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josh-g-hutchison/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green?style=flat-square&logo=github)](https://github.com/JoshHutchison)
+
+
 
 
 ## Summary
 
 Experienced software developer with a background in electronic engineering, adept in Java, Python, and Web Development. Skilled in streamlining processes, automating tasks, and delivering efficient solutions.
 
-## Technical Skills
+## Socials
 
-![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square&logo=html5&logoColor=white&labelColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript&logoColor=white&labelColor=blue)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white&labelColor=blue)
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=blue)
-![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white&labelColor=blue)
-![C#](https://img.shields.io/badge/C%23-blue?style=flat-square&logo=csharp&logoColor=white&labelColor=blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white&labelColor=blue)
-![Express](https://img.shields.io/badge/Express-blue?style=flat-square&logo=express&logoColor=white&labelColor=blue)
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white&labelColor=blue)
-![Node.js](https://img.shields.io/badge/Node.js-blue?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=blue)
-![Django](https://img.shields.io/badge/Django-blue?style=flat-square&logo=django&logoColor=white&labelColor=blue)
-![REST](https://img.shields.io/badge/REST-blue?style=flat-square&logo=rest&logoColor=white&labelColor=blue)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square&logo=sql&logoColor=white&labelColor=blue)
-![Git](https://img.shields.io/badge/Git-blue?style=flat-square&logo=git&logoColor=white&labelColor=blue)
-![GitHub](https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=github&logoColor=white&labelColor=blue)
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white&labelColor=blue)
-![AWS](https://img.shields.io/badge/AWS-blue?style=flat-square&logo=amazonaws&logoColor=white&labelColor=blue)
-![Jira](https://img.shields.io/badge/Jira-blue?style=flat-square&logo=jira&logoColor=white&labelColor=blue)
-![Slack](https://img.shields.io/badge/Slack-blue?style=flat-square&logo=slack&logoColor=white&labelColor=blue)
-![Zoom](https://img.shields.io/badge/Zoom-blue?style=flat-square&logo=zoom&logoColor=white&labelColor=blue)
-![Postgres](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white&labelColor=blue)
-![Bash](https://img.shields.io/badge/Bash-blue?style=flat-square&logo=gnubash&logoColor=white&labelColor=blue)
+<p align="left"> 
+  <a href="https://www.github.com/joshhutchison" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/josh-g-hutchison" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+## Technical Skills
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+</p>
 
 
 
